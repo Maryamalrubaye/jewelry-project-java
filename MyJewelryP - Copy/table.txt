@@ -1,0 +1,4 @@
+     Ring     15     300     
+     Ring     12     280     
+     Ring     6     120     
+     Ring     3.5     90     

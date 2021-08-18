@@ -1,0 +1,46 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyJWFxProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyJWFxProject_jar</output-path>
+    <root id="archive" name="MyJWFxProject.jar">
+      <element id="module-output" name="MyJWFxProject" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/itextpdf/maven/itextdoc/2.0.0/itextdoc-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/itextpdf/itextpdf/5.1.2/itextpdf-5.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/itextpdf/tool/xmlworker/1.1.0/xmlworker-1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.0/commons-io-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/maven/maven-plugin-api/3.0.3/maven-plugin-api-3.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/maven/maven-model/3.0.3/maven-model-3.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-utils/2.0.6/plexus-utils-2.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/maven/maven-artifact/3.0.3/maven-artifact-3.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/sonatype/sisu/sisu-inject-plexus/2.1.1/sisu-inject-plexus-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/sonatype/sisu/sisu-inject-bean/2.1.1/sisu-inject-bean-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/sonatype/sisu/sisu-guice/2.9.4/sisu-guice-2.9.4-no_aop.jar" path-in-jar="/" />
+      <element id="library" level="application" name="lib" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/javafx-swt.jar" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/javafx.base.jar" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/javafx.controls.jar" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/javafx.fxml.jar" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/javafx.graphics.jar" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/javafx.media.jar" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/javafx.properties" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/javafx.swing.jar" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/javafx.web.jar" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/libdecora_sse.dylib" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/libfxplugins.dylib" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/libglass.dylib" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/libglib-lite.dylib" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/libgstreamer-lite.dylib" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/libjavafx_font.dylib" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/libjavafx_iio.dylib" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/libjfxmedia_avf.dylib" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/libjfxmedia.dylib" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/libjfxwebkit.dylib" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/libprism_common.dylib" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/libprism_es2.dylib" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/libprism_sw.dylib" />
+      <element id="file-copy" path="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/src.zip" />
+      <element id="artifact" artifact-name="unnamed" />
+    </root>
+  </artifact>
+</component>
